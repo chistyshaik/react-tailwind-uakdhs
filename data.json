@@ -1,0 +1,59 @@
+{
+  "syllabus": [
+    {
+      "module": "Introduction to Programming",
+      "chapter": 1,
+      "courseCoverage": 80,
+      "topics": [
+        "Cloud Application Development for Beginners",
+        "Front-end Development",
+        "Back-end and server-side Development",
+        "Programming Languages, Tools and Frameworks"
+      ]
+    },
+    {
+      "module": "HTML5 and CSS3 Overview",
+      "chapter": 2,
+      "courseCoverage": 60,
+      "topics": [
+        "Introduction to HTML and HTML tags",
+        "HTML5 Management & Support, Scripting",
+        "CSS: Styling HTML"
+      ]
+    },
+    {
+      "module": "JavaScript Programming",
+      "chapter": 3,
+      "courseCoverage": 40,
+      "topics": [
+        "JavaScript Overview",
+        "JavaScript Variables and Control Statements",
+        "JavaScript Functions and APIs",
+        "Client-side JavaScript, DOM objects"
+      ]
+    },
+    {
+      "module": "HTML5 Elements",
+      "chapter": 4,
+      "courseCoverage": 20,
+      "topics": [
+        "HTML5 tags and structural elements",
+        "HTML5 Input Elements and data Attributes"
+      ]
+    },
+    {
+      "module": "GitHub",
+      "chapter": 5,
+      "courseCoverage": 10,
+      "topics": [
+        "Introduction to Git and GitHub",
+        "Repositories and Branches",
+        "Managing GitHub Projects"
+      ]
+    },
+    {
+      "module": "Final Assignment",
+      "chapter": 6
+    }
+  ]
+}
